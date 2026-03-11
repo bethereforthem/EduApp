@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'core.apps.CoreConfig',
     'accounts',
     # --- Third-party apps ---
-    'rest_framework'
+    'rest_framework',
     'transactions',
 ]
 
